@@ -1,2 +1,1 @@
-# Projects
-my projects 
+Coding using the java programming language.
